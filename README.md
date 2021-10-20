@@ -28,9 +28,6 @@
   <h3 align="center">DoWhile 2021 (Front)</h3>
 
   <p align="center">
-   Getting in touch with firebase authentication
-    <br />
-    <br />
     <a href="https://github.com/miguelsndc/front-dowhile>View Demo</a>
     ·
     <a href="https://github.com/miguelsndc/front-dowhile/issues">Report Bug</a>
