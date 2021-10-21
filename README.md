@@ -99,18 +99,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Create a project in [Firebase](https://firebase.google.com/?hl=pt-br) in test mode.
-2. Add a Web APP to your firebase project
-4. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/miguelsndc/front-dowhile
    ```
-5. Create a .env.local file and populate it with the firebase configs of your web app.
-6. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install // yarn 
    ```
-7. Start the project
+3. Start the project
    ```sh
    npm run dev // yarn dev
    ```
