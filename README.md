@@ -28,7 +28,7 @@
   <h3 align="center">DoWhile 2021 (Front)</h3>
 
   <p align="center">
-    <a href="https://github.com/miguelsndc/front-dowhile>View Demo</a>
+    <a href="https://github.com/miguelsndc/front-dowhile">View Demo</a>
     ·
     <a href="https://github.com/miguelsndc/front-dowhile/issues">Report Bug</a>
     ·
@@ -101,7 +101,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/miguelsndc/front-dowhile
+   git clone https://github.com/miguelsndc/front-dowhile.git
    ```
 2. Install NPM packages
    ```sh
